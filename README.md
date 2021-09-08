@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=runzhenghengbin&theme=dracula)](https://github.com/runzhenghengbin/github-readme-activity-graph)
+
 
 
 <p>
