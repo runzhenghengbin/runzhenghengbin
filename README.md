@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](http://antzuhl.cn:4000/get/@runzhenghengbin)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=runzhenghengbin&theme=dracula)](https://github.com/runzhenghengbin/github-readme-activity-graph)
+
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=runzhenghengbin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=onedark" />
